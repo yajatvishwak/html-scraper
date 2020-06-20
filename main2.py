@@ -9,31 +9,49 @@ pp = pprint.PrettyPrinter(indent=4)
 drugs = []
 chk = False
 chk2 = False
+chk3 = False
 with open('index.html', 'r') as file:
     stringHTML = file.read()
     s = HTMLBeautifier.beautify(stringHTML, 4)
     drug = {}
+    drug['PE'] = "no"
+    drug['NN'] = "no"
+    drug['CA'] = "no"
     strParsed = h.handle(s)
     strParsed += "##"
     tarr = []
     tarrr = []
-    # print(strParsed)
+    print(strParsed)
     for line in strParsed.splitlines():
 
         if line.find("##") != -1:
             drugs.append(drug)
             drug = {}
-            drug['name'] = line[3:]
+            drug['PE'] = "no"
+            drug['NN'] = "no"
+            drug['CA'] = "no"
+            drug['name'] = line[3:line.find("-")].strip()
         if line.find("Dosage form:") != -1:
-            drug['dosage_form'] = line[line.find(":") + 1:]
+            drug['dosage_form'] = line[line.find(":") + 1:].strip()
+        if line.find("Aspnr:") != -1:
+            drug['Asprn'] = line[line.find(":")+1:].strip()
         if line.find("Strength:") != -1:
-            drug['strength'] = line[line.find(":") + 1:]
+            drug['strength'] = line[line.find(":") + 1:].strip()
         if line.find("Manufacturer:") != -1:
-            drug['manufacturer'] = line[line.find(":") + 1:]
+            drug['manufacturer'] = line[line.find(":") + 1:].strip()
         if line.find("Agent:") != -1:
-            drug['agent'] = line[line.find(":") + 1:]
+            drug['agent'] = line[line.find(":") + 1:].strip()
         if line.find("MAH:") != -1:
-            drug['mah'] = line[line.find(":") + 1:]
+            drug['MAH'] = line[line.find(":") + 1:].strip()
+        if line.find("Prescription only") != -1:
+            drug['PE'] = "yes"
+        
+        if line.find("Not classified as a narcotic") != -1:
+            drug['NN'] = "yes"
+       
+        if line.find("Centrally approved e") != -1:
+            drug['CA'] = "yes"
+        
         if line.find("Applied date:") != -1:
             arr = line.split()
             try:
@@ -52,7 +70,7 @@ with open('index.html', 'r') as file:
         if line.find("Expiry date:") != -1:
             drug['expiry_date'] = line[line.find(":") + 1:]
         if line.find("ATC-code:") != -1:
-            drug['ATC-code'] = line[line.find(":") + 1:]
+            drug['ATC-code'] = line[line.find(":") + 1:].strip()
             chk = True
         if chk == True and line.find("|") == -1:
             tarr.append(line)
@@ -67,7 +85,10 @@ with open('index.html', 'r') as file:
             tarr = []
             chk = False
         if line.find("Old tradenames") != -1:
-            drug['old_tradenames'] = "Datum:"+line[line.find(":") + 1:]
+            chk3 =True
+        if chk3 and line.find("Datum") != -1:
+            drug['old_name'] = line[line.find(":")+1:].strip()
+            chk3 = False
 
             # drugs.append(drug)
         if line.find("Ingredients") != -1:
@@ -83,7 +104,7 @@ with open('index.html', 'r') as file:
 
     # print(drugs)
 
-df = pd.DataFrame(drugs)
-with open("tableView.txt", 'a') as f:
-    f.write(df.to_string(header=True, index=True))
-pp.pprint(drugs)
+#df = pd.DataFrame(drugs)
+#with open("tableView.txt", 'a') as f:
+#    f.write(df.to_string(header=True, index=True))
+#pp.pprint(drugs)
