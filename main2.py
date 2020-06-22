@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 from html5print import HTMLBeautifier
 import html2text
 import pprint
@@ -21,7 +22,7 @@ with open('index.html', 'r') as file:
     strParsed += "##"
     tarr = []
     tarrr = []
-    print(strParsed)
+    # print(strParsed)
     for line in strParsed.splitlines():
 
         if line.find("##") != -1:
@@ -45,13 +46,13 @@ with open('index.html', 'r') as file:
             drug['MAH'] = line[line.find(":") + 1:].strip()
         if line.find("Prescription only") != -1:
             drug['PE'] = "yes"
-        
+
         if line.find("Not classified as a narcotic") != -1:
             drug['NN'] = "yes"
-       
+
         if line.find("Centrally approved e") != -1:
             drug['CA'] = "yes"
-        
+
         if line.find("Applied date:") != -1:
             arr = line.split()
             try:
@@ -85,7 +86,7 @@ with open('index.html', 'r') as file:
             tarr = []
             chk = False
         if line.find("Old tradenames") != -1:
-            chk3 =True
+            chk3 = True
         if chk3 and line.find("Datum") != -1:
             drug['old_name'] = line[line.find(":")+1:].strip()
             chk3 = False
@@ -102,9 +103,51 @@ with open('index.html', 'r') as file:
             tarrr = []
             chk2 = False
 
-    # print(drugs)
+# --- ingredients ---
+    drugsWithIngredients = []
 
-#df = pd.DataFrame(drugs)
-#with open("tableView.txt", 'a') as f:
-#    f.write(df.to_string(header=True, index=True))
-#pp.pprint(drugs)
+    for drug in drugs:
+        d = {}
+        d['active_ingredient'] = []
+        d['active_corresponding_to'] = []
+        d['antimicrobial_preservative'] = []
+        d['aroma'] = []
+        d['colourant'] = []
+        d['other_constituent'] = []
+        d['other_substance_corresponding_to'] = []
+        try:
+            # print(drug['ingredients'][2:])
+            for i in drug['ingredients'][2:]:
+                if i.find("Active ingredient") != -1:
+                    d['active_ingredient'].append(
+                        "".join(i.split('Active ingredient')).strip())
+                if i.find("Active corresponding to") != -1:
+                    d['active_corresponding_to'].append(
+                        "".join(i.split('Active corresponding to')).strip())
+                if i.find("Antimicrobial preservative") != -1:
+                    d['antimicrobial_preservative'].append(
+                        "".join(i.split('Antimicrobial preservative')).strip())
+                if i.find("Aroma") != -1:
+                    d['aroma'].append(
+                        "".join(i.split('Aroma')).strip())
+                if i.find("Colourant") != -1:
+                    d['colourant'].append(
+                        "".join(i.split('Colourant')).strip())
+                    # Other constituent
+                # print(i)
+                if i.find("Other constitutent ") != -1:
+                    d['other_constituent'].append(
+                        "".join(i.split('Other constitutent ')).strip())
+                # Other substance corresponding to
+                if i.find("Other substance corresponding to") != -1:
+                    d['other_substance_corresponding_to'].append(
+                        "".join(i.split('Other substance corresponding to')).strip())
+            drug['ingredients'] = d
+            drugsWithIngredients.append(drug)
+        except:
+            print("NA")
+            #df = pd.DataFrame(drugs)
+            # with open("tableView.txt", 'a') as f:
+            #    f.write(df.to_string(header=True, index=True))
+            # pp.pprint(drugs)
+pp.pprint(drugsWithIngredients)
