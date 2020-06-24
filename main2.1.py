@@ -4,6 +4,10 @@ from html5print import HTMLBeautifier
 import html2text
 import pprint
 import pathlib
+import pymongo
+myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+mydb = myclient["Meds"]
+mycol = mydb["drugsv1"]
 
 h = html2text.HTML2Text()
 h.ignore_links = True
@@ -26,28 +30,15 @@ for path in pathlib.Path("abc").iterdir():
             drug['PE'] = "no"
             drug['NN'] = "no"
             drug['CA'] = "no"
-            drug["dosage_form"] =""
-            drug["name"] =""
-            drug["strength"] =""
-            drug["manufacturer"] =""
-            drug["MAH"] =""
-            drug["applied_date"] =""
-            drug["appr_date"] =""
-            drug["reg_number"] =""
-            drug["ATC-code"] =""
-            drug["old_name"] =""
-            drug["ingredients"] =""
             strParsed = h.handle(s)
             strParsed += "##"
             tarr = []
             tarrr = []
 
-          
+            i = 0 
             #print(strParsed)
             for line in strParsed.splitlines():
-                if len(line) <=3:
-                    continue 
-                
+
                 if line.find("##") != -1:
                     drugs.append(drug)
                     drug = {}
@@ -178,4 +169,9 @@ for path in pathlib.Path("abc").iterdir():
                     continue
         df = pd.DataFrame(drugsWithIngredients)
         #pp.pprint(drugsWithIngredients)
-        df.to_csv("output.csv", mode='a')
+        #df.to_csv("output.csv", mode='a')
+        try:
+            w = mycol.insert_many(drugsWithIngredients)
+            print(w)
+        except:
+            print("Error in file")
