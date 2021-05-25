@@ -1,0 +1,1143 @@
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Orodispersible tablet
+
+Dosage form: Oral solution
+
+Dosage form: Solution for injection
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SOLUTION
+
+Dosage form: SOLUTION
+
+Dosage form: TABLETS
+
+Dosage form: SUBSTANCE FOR INJECTION, COMB PACK
+
+Dosage form: SOLUTION
+
+Dosage form: AMPULLER
+
+Dosage form: AMPULLER
+
+Dosage form: CAPSULES
+
+Dosage form: FOR INJECTION
+
+Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE
+
+Dosage form: CAPSULES
+
+Dosage form: TABLETS
+
+Dosage form: Powder for solution for infusion
+
+Dosage form: TABLETS
+
+Dosage form: INJECTION
+
+Dosage form: SIRUP
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Granules for oral suspension, sachets
+
+Dosage form: Cream
+
+Dosage form: IMPREGNATED DRESSINGS
+
+Dosage form: TABLETS
+
+Dosage form: Gel
+
+Dosage form: SUSPENSION
+
+Dosage form: Oral drops, solution
+
+Dosage form: Tablet
+
+Dosage form: CAPSULES
+
+Dosage form: SUBSTANCE FOR INFUSION
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: Oral solution
+
+Dosage form: Gastro-resistant tablet
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Granules for oral suspension
+
+Dosage form: Tablet
+
+Dosage form: Solution for infusion
+
+Dosage form: Solution for infusion
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: SUBSTANCE FOR INFUSION (I+II)
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: TABLETS
+
+Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID
+
+Dosage form: GRANULATED POWDER, SINGLE DOSE
+
+Dosage form: Concentrate for solution for infusion
+
+Dosage form: Prolonged-release tablet
+
+Dosage form: Prolonged-release tablet
+
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+Manufacturer:
+
+
+Strength: 10 mg
+
+Strength: 15 mg
+
+Strength: 30 mg
+
+Strength: 5 mg
+
+Strength: 5 mg
+
+Strength: 10 mg
+
+Strength: 15 mg
+
+Strength: 30 mg
+
+Strength: 1 mg/ml
+
+Strength: 7,5 mg/ml
+
+Strength: 0.25 g
+
+Strength:
+
+Strength:
+
+Strength:
+
+Strength:
+
+Strength:
+
+Strength: 800.000 ie
+
+Strength:
+
+Strength: 300.00 ie
+
+Strength: 600000 ie
+
+Strength:
+
+Strength:
+
+Strength: 600.000 ie
+
+Strength:
+
+Strength:
+
+Strength: 1 g
+
+Strength: 250 mg
+
+Strength: 50 mg/ml
+
+Strength:
+
+Strength: 40 mg/ml
+
+Strength: 200 mg
+
+Strength: 0,05 %
+
+Strength: 0.5 mg/ml
+
+Strength: 500 mg
+
+Strength: 0,025 %
+
+Strength: 25 mg/ml
+
+Strength: 200 mg/ml
+
+Strength: 300 mg
+
+Strength: 200 mg
+
+Strength: 250 000 IE
+
+Strength: 100 mg
+
+Strength: 300 mg
+
+Strength: 500 mg
+
+Strength: 60 mg/ml
+
+Strength: 250 mg
+
+Strength: 400 mg
+
+Strength: 100 mg/ml
+
+Strength: 500 mg
+
+Strength: 1 mg/ml
+
+Strength: 2 mg/ml
+
+Strength: 1 g
+
+Strength: 1 g/250 ml
+
+Strength: 500 mg
+
+Strength: 1 g
+
+Strength: 800 mg
+
+Strength: 50 mg/ml
+
+Strength: 23,4 mg fe
+
+Strength: 5 mg/ml
+
+Strength: 300 mg
+
+Strength: 500 mg
+
