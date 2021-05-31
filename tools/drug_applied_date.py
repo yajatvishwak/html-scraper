@@ -5,7 +5,6 @@ if os.path.exists("./testfile_drug_applied_date.html"):
 if os.path.exists("../processed/drug_applied_date.txt"):
     os.remove("../processed/drug_applied_date.txt")
 
-count = 0
 string_arr = []
 
 
@@ -13,7 +12,6 @@ with open("../htmlFile/index.html", "r") as html:
     file = open("testfile_drug_applied_date.html", "a")
     for line in html:
         if "Applied date" in line:
-            count += 1
             file.write('<div class="applieddate">' + line + "</div>\n")
 
 
@@ -24,4 +22,4 @@ with open("testfile_drug_applied_date.html", "r") as html:
                              attrs={
                                  "class": "applieddate"}
                              ):
-        file.write(div.text)
+        file.write(div.text.split(":")[1].split()[0] + "\n")

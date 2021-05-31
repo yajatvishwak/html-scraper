@@ -1,121 +1,383 @@
 
-                  Strength: 10 mg                
-               
-                  Strength: 15 mg                
-               
-                  Strength: 30 mg                
-               
-                  Strength: 5 mg                 
-               
-                  Strength: 5 mg                 
-               
-                  Strength: 10 mg                
-               
-                  Strength: 15 mg                
-               
-                  Strength: 30 mg                
-               
-                  Strength: 1 mg/ml              
-               
-                  Strength: 7,5 mg/ml            
-               
-                  Strength: 0.25 g               
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength: 800.000 ie           
-               
-                  Strength:                      
-               
-                  Strength: 300.00 ie            
-               
-                  Strength: 600000 ie            
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength: 600.000 ie           
-               
-                  Strength:                      
-               
-                  Strength:                      
-               
-                  Strength: 1 g                  
-               
-                  Strength: 250 mg               
-               
-                  Strength: 50 mg/ml             
-               
-                  Strength:                      
-               
-                  Strength: 40 mg/ml             
-               
-                  Strength: 200 mg               
-               
-                  Strength: 0,05 %               
-               
-                  Strength: 0.5 mg/ml            
-               
-                  Strength: 500 mg               
-               
-                  Strength: 0,025 %              
-               
-                  Strength: 25 mg/ml             
-               
-                  Strength: 200 mg/ml            
-               
-                  Strength: 300 mg               
-               
-                  Strength: 200 mg               
-               
-                  Strength: 250 000 IE           
-               
-                  Strength: 100 mg               
-               
-                  Strength: 300 mg               
-               
-                  Strength: 500 mg               
-               
-                  Strength: 60 mg/ml             
-               
-                  Strength: 250 mg               
-               
-                  Strength: 400 mg               
-               
-                  Strength: 100 mg/ml            
-               
-                  Strength: 500 mg               
-               
-                  Strength: 1 mg/ml              
-               
-                  Strength: 2 mg/ml              
-               
-                  Strength: 1 g                  
-               
-                  Strength: 1 g/250 ml           
-               
-                  Strength: 500 mg               
-               
-                  Strength: 1 g                  
-               
-                  Strength: 800 mg               
-               
-                  Strength: 50 mg/ml             
-               
-                  Strength: 23,4 mg fe           
-               
-                  Strength: 5 mg/ml              
-               
-                  Strength: 300 mg               
-               
-                  Strength: 500 mg               
-               
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 mg               
+    
+     Strength: 100 mg               
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength:                      
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength:                      
+    
+     Strength: 0,5 g                
+    
+     Strength: 0,5 g                
+    
+     Strength:                      
+    
+     Strength: 0,5 g                
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 0.5 g                
+    
+     Strength: 1 g                  
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 0,5 g                
+    
+     Strength: 1 g                  
+    
+     Strength: 0,1 g, 0,2 g         
+    
+     Strength: 0,3 g                
+    
+     Strength: 1 g                  
+    
+     Strength: 0.5 g                
+    
+     Strength: 5 mg                 
+    
+     Strength: 10 mg/ml             
+    
+     Strength: 1 g                  
+    
+     Strength: 1 g                  
+    
+     Strength: 0.5 g                
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 1 g                  
+    
+     Strength: 0.5 g                
+    
+     Strength: 0,5 g                
+    
+     Strength: 0.5 g                
+    
+     Strength: 0,5 g                
+    
+     Strength: 50 mg/ml             
+    
+     Strength:                      
+    
+     Strength: 5 g                  
+    
+     Strength:                      
+    
+     Strength: 0,1 g                
+    
+     Strength: 50 mg                
+    
+     Strength: 12 mg/ml             
+    
+     Strength:                      
+    
+     Strength: 0.50 g               
+    
+     Strength: 0.2 g                
+    
+     Strength: 0,05 g               
+    
+     Strength: 0.26 g               
+    
+     Strength:                      
+    
+     Strength: 10 ie/ml             
+    
+     Strength: 10 ie                
+    
+     Strength: 10 ie                
+    
+     Strength: 10 ie/ml             
+    
+     Strength: 60 ie/ml             
+    
+     Strength:                      
+    
+     Strength: 20 ie och 100 ie     
+    
+     Strength: 20 ie                
+    
+     Strength: 15 ie/ml             
+    
+     Strength: 50 mg                
+    
+     Strength: 250 mg               
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 50 mg                
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 1%                   
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 0.25 g               
+    
+     Strength: 30 ie/ml             
+    
+     Strength: 0.1 mg/ml            
+    
+     Strength: 0.5 mg/ml            
+    
+     Strength: 0.5 mg               
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 250 mg               
+    
+     Strength: 1 %                  
+    
+     Strength: 0.1 g                
+    
+     Strength: 0.5 g                
+    
+     Strength: 1 g                  
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 1%                   
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 0.2%                 
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 50mg                 
+    
+     Strength: 1%                   
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 10 mg                
+    
+     Strength: 1%                   
+    
+     Strength: 40 ie/ml             
+    
+     Strength: 2,5 mg               
+    
+     Strength: 0,3 g                
+    
+     Strength: 0.28 mg/ml           
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 0.35 g               
+    
+     Strength:                      
+    
+     Strength: 0.1%                 
+    
+     Strength: 0,4 mg/ml            
+    
+     Strength: 1 %                  
+    
+     Strength: 0,33 g               
+    
+     Strength: 0.67 g               
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 300 mg               
+    
+     Strength: 0,16 g               
+    
+     Strength: 1 g                  
+    
+     Strength: 0,5 g                
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 500 mg               
+    
+     Strength: 0.5 g                
+    
+     Strength: 500 mg               
+    
+     Strength: 750 mg               
+    
+     Strength: 40 IE/ml             
+    
+     Strength: 100 mg/ml            
+    
+     Strength: 40 mg/ml             
+    
+     Strength: 200 mg               
+    
+     Strength: 200 mg               
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 400 mg               
+    
+     Strength: 100 mg/ml            
+    
+     Strength: 100 IE/ml (penfill)  
+    
+     Strength: 40 ie/ml             
+    
+     Strength: 800 mg               
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 800 mg               
+    
+     Strength: 100 mg/ml            
+    
+     Strength: 4 mg/ml              
+    
+     Strength: 800 mg               
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 250 mg               
+    
+     Strength: 800 mg               
+    
+     Strength: 1000 mg              
+    
+     Strength: 0,52 mg/cm dent.tr}d 
+    
+     Strength: 500 mg               
+    
+     Strength: 40 mg                
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 250 mg               
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 800 mg               
+    
+     Strength:                      
+    
+     Strength:                      
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 800 mg               
+    
+     Strength: 200 mg               
+    
+     Strength: 400 mg               
+    
+     Strength: 800 mg               
+    
+     Strength: 500 mg               
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 IE/ml            
+    
+     Strength: 100 mg               
+    
+     Strength: 200 mg               
+    

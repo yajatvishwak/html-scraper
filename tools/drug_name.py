@@ -1,20 +1,12 @@
+import os
 from bs4 import BeautifulSoup
-import re
+if os.path.exists("./testfile_drug_name.html"):
+    os.remove("./testfile_drug_name.html")
+if os.path.exists("../processed/drug_name.txt"):
+    os.remove("../processed/drug_name.txt")
 
-html = """
-<table cellspacing="0">
-            <td bgcolor="#555555">
-               <table cellspacing="0" cellpadding="0" border="0" width="798">
-                  <td bgcolor="#DDE2D7">
-                     <h2>Abilify - Aspnr: 020038 </h2>
-                  </td>
-               </table>
-            </td>
-         </table>
-
-"""
 with open("../htmlFile/index.html", "r") as html:
-    file = open("testfile.txt", "a")
+    file = open("testfile_drug_name.txt", "a")
     soup = BeautifulSoup(html, 'html.parser')
 
     for div in soup.find_all("h2",
@@ -24,10 +16,10 @@ with open("../htmlFile/index.html", "r") as html:
                              #   'width': '798',
                              #  "border": "0"}
                              ):
-        file.write(div.text)
+        file.write(div.text + "\n")
 
 
-with open("testfile.txt", "r") as name:
+with open("testfile_drug_name.txt", "r") as name:
     file = open("../processed/drug_name.txt", "a")
     for line in name:
         if ":" in line and "-" in line:

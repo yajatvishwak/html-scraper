@@ -1,241 +1,383 @@
 
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Oral solution 
-                  
-                  Dosage form: Solution for injection 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: INJECTION 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: SUBSTANCE FOR INJECTION, COMB PACK 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: AMPULLER 
-                  
-                  Dosage form: AMPULLER 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: FOR INJECTION 
-                  
-                  Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: Powder for solution for infusion 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: INJECTION 
-                  
-                  Dosage form: SIRUP 
-                  
-                  Dosage form: Granules for oral suspension 
-                  
-                  Dosage form: Granules for oral suspension, sachets 
-                  
-                  Dosage form: Cream 
-                  
-                  Dosage form: IMPREGNATED DRESSINGS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: Gel 
-                  
-                  Dosage form: SUSPENSION 
-                  
-                  Dosage form: Oral drops, solution 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Oral solution 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: GRANULATED POWDER, SINGLE DOSE 
-                  
-                  Dosage form: Granules for oral suspension 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Solution for infusion 
-                  
-                  Dosage form: Solution for infusion 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION (I+II) 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION (I+II) 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID 
-                  
-                  Dosage form: GRANULATED POWDER, SINGLE DOSE 
-                  
-                  Dosage form: Concentrate for solution for infusion 
-                  
-                  Dosage form: Prolonged-release tablet 
-                  
-                  Dosage form: Prolonged-release tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Orodispersible tablet 
-                  
-                  Dosage form: Oral solution 
-                  
-                  Dosage form: Solution for injection 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: INJECTION 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: SUBSTANCE FOR INJECTION, COMB PACK 
-                  
-                  Dosage form: SOLUTION 
-                  
-                  Dosage form: AMPULLER 
-                  
-                  Dosage form: AMPULLER 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: FOR INJECTION 
-                  
-                  Dosage form: SOLUTION FOR INSTILLATION, COMBINATION PACKAGE 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: Powder for solution for infusion 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: INJECTION 
-                  
-                  Dosage form: SIRUP 
-                  
-                  Dosage form: Granules for oral suspension 
-                  
-                  Dosage form: Granules for oral suspension, sachets 
-                  
-                  Dosage form: Cream 
-                  
-                  Dosage form: IMPREGNATED DRESSINGS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: Gel 
-                  
-                  Dosage form: SUSPENSION 
-                  
-                  Dosage form: Oral drops, solution 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: CAPSULES 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: Oral solution 
-                  
-                  Dosage form: Gastro-resistant tablet 
-                  
-                  Dosage form: GRANULATED POWDER, SINGLE DOSE 
-                  
-                  Dosage form: Granules for oral suspension 
-                  
-                  Dosage form: Tablet 
-                  
-                  Dosage form: Solution for infusion 
-                  
-                  Dosage form: Solution for infusion 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION (I+II) 
-                  
-                  Dosage form: SUBSTANCE FOR INFUSION (I+II) 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: TABLETS 
-                  
-                  Dosage form: GRANULES FOR PREPARATION OF ORAL LIQUID 
-                  
-                  Dosage form: GRANULATED POWDER, SINGLE DOSE 
-                  
-                  Dosage form: Concentrate for solution for infusion 
-                  
-                  Dosage form: Prolonged-release tablet 
-                  
-                  Dosage form: Prolonged-release tablet 
-                  
+     Dosage form: Solution for injection and infusion 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: Powder and solvent for solution for injection/infusion 
+    
+     Dosage form: Powder and solvent for solution for injection/infusion 
+    
+     Dosage form: Solution for injection, cartridge 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: Solution for injection, cartridge 
+    
+     Dosage form: Film-coated tablet 
+    
+     Dosage form: Solution for injection, pre-filled pen 
+    
+     Dosage form: Solution for injection, pre-filled pen 
+    
+     Dosage form: Solution for injection, pre-filled pen 
+    
+     Dosage form: Film-coated tablet 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: SUPPOSITORIES 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: LOZENGE 
+    
+     Dosage form: LOZENGE 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: PILLS 
+    
+     Dosage form: PILLS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: SUPPOSITORIES 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: AMPULLER 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: GRANULATES 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: VAGINAL CAPSULE 
+    
+     Dosage form: AMPULLER 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: SUBSTANCE FOR INJECTION (I+II) 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: POWDER 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: POWDER 
+    
+     Dosage form: FOR INFUSION 
+    
+     Dosage form: DROPS 
+    
+     Dosage form: POWDER FOR MIXTURE 
+    
+     Dosage form: DRAGEES 
+    
+     Dosage form: FOR INJECTION 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: VAGINAL JELLY 
+    
+     Dosage form: EYE/EAR OINTMENT 
+    
+     Dosage form: POWDER FOR EYELOTION 
+    
+     Dosage form: POWDER FOR EYELOTION 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: DROPS 
+    
+     Dosage form: SUPPOSITORIES 
+    
+     Dosage form: STERILE POWDER 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: DROPS 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: OILSUSPENSION 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: DROPS 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: LINIMENT 
+    
+     Dosage form: AMPULLER 
+    
+     Dosage form: SPRAY 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: OINTMENT 
+    
+     Dosage form: INJECTION, COMBINATION PACKAGE 
+    
+     Dosage form: DRAGEES 
+    
+     Dosage form: EYE OINTMENT 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: SPRAY 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: SOLUTION 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: EYE/EAR OINTMENT 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: POWDER SINGLE DOSE 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: STERILE SOLUTION 
+    
+     Dosage form: CONCENTRATE FOR PREPARATION OF HAEMODIALYSIS-SOL  I 
+    
+     Dosage form: CONCENTRATE FOR PREPARATION OF HAEMODIALYSIS-SOL  I 
+    
+     Dosage form: CAPSULES 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: PROLONGED-RELEASE TABLET 
+    
+     Dosage form: PROLONGED-RELEASE TABLET 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: MIXTURE 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: GRANULATED POWDER, SINGLE DOSE 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: INJECTION 
+    
+     Dosage form: INFUSION 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: Solution for injection, pre-filled pen 
+    
+     Dosage form: TABLETS EFFERVESCENT 
+    
+     Dosage form: CHEWABLE TABLET 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: THREAD FOR DENTAL USE 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: Film-coated tablet 
+    
+     Dosage form: Powder and solvent for suspension for injection 
+    
+     Dosage form: Powder and solvent for suspension for injection 
+    
+     Dosage form: Suspension for injection 
+    
+     Dosage form: Powder for solution for infusion 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: Powder for solution for infusion 
+    
+     Dosage form: Powder for solution for infusion 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: Tablet 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: TABLETS 
+    
+     Dosage form: Powder for solution for infusion 
+    
+     Dosage form: Solution for injection 
+    
+     Dosage form: Solution for injection, pre-filled pen 
+    
+     Dosage form: Capsule, hard 
+    
+     Dosage form: Capsule, hard 
+    Dosage form: Solution for injection and infusionDosage form: Solution for injectionDosage form: Solution for injectionDosage form: Powder and solvent for solution for injection/infusionDosage form: Powder and solvent for solution for injection/infusionDosage form: Solution for injection, cartridgeDosage form: Solution for injectionDosage form: Solution for injectionDosage form: Solution for injection, cartridgeDosage form: Film-coated tabletDosage form: Solution for injection, pre-filled penDosage form: Solution for injection, pre-filled penDosage form: Solution for injection, pre-filled penDosage form: Film-coated tabletDosage form: TABLETSDosage form: TABLETSDosage form: SUPPOSITORIESDosage form: TABLETSDosage form: LOZENGEDosage form: LOZENGEDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: PILLSDosage form: PILLSDosage form: TABLETSDosage form: TABLETSDosage form: INJECTION, COMBINATION PACKAGEDosage form: SUPPOSITORIESDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: AMPULLERDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: SOLUTIONDosage form: SOLUTIONDosage form: SOLUTIONDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: INJECTIONDosage form: TABLETSDosage form: GRANULATESDosage form: INJECTIONDosage form: TABLETSDosage form: TABLETSDosage form: INJECTIONDosage form: TABLETSDosage form: TABLETSDosage form: INJECTIONDosage form: TABLETSDosage form: VAGINAL CAPSULEDosage form: AMPULLERDosage form: INJECTION, COMBINATION PACKAGEDosage form: SUBSTANCE FOR INJECTION (I+II)Dosage form: INJECTION, COMBINATION PACKAGEDosage form: INJECTION, COMBINATION PACKAGEDosage form: INJECTIONDosage form: POWDERDosage form: INJECTION, COMBINATION PACKAGEDosage form: INJECTIONDosage form: INJECTIONDosage form: CAPSULESDosage form: CAPSULESDosage form: POWDERDosage form: FOR INFUSIONDosage form: DROPSDosage form: POWDER FOR MIXTUREDosage form: DRAGEESDosage form: FOR INJECTIONDosage form: OINTMENTDosage form: VAGINAL JELLYDosage form: EYE/EAR OINTMENTDosage form: POWDER FOR EYELOTIONDosage form: POWDER FOR EYELOTIONDosage form: INJECTIONDosage form: TABLETSDosage form: INJECTIONDosage form: INJECTIONDosage form: DROPSDosage form: SUPPOSITORIESDosage form: STERILE POWDERDosage form: CAPSULESDosage form: MIXTUREDosage form: DROPSDosage form: CAPSULESDosage form: OILSUSPENSIONDosage form: INJECTION, COMBINATION PACKAGEDosage form: INJECTION, COMBINATION PACKAGEDosage form: INJECTION, COMBINATION PACKAGEDosage form: DROPSDosage form: CAPSULESDosage form: MIXTUREDosage form: OINTMENTDosage form: OINTMENTDosage form: OINTMENTDosage form: LINIMENTDosage form: AMPULLERDosage form: SPRAYDosage form: INJECTION, COMBINATION PACKAGEDosage form: OINTMENTDosage form: OINTMENTDosage form: INJECTION, COMBINATION PACKAGEDosage form: DRAGEESDosage form: EYE OINTMENTDosage form: INJECTIONDosage form: TABLETSDosage form: CAPSULESDosage form: MIXTUREDosage form: SOLUTIONDosage form: SOLUTIONDosage form: SPRAYDosage form: TABLETSDosage form: MIXTUREDosage form: SOLUTIONDosage form: MIXTUREDosage form: EYE/EAR OINTMENTDosage form: TABLETSDosage form: TABLETSDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: STERILE SOLUTIONDosage form: TABLETSDosage form: TABLETSDosage form: POWDER SINGLE DOSEDosage form: TABLETSDosage form: STERILE SOLUTIONDosage form: CONCENTRATE FOR PREPARATION OF HAEMODIALYSIS-SOL  IDosage form: CONCENTRATE FOR PREPARATION OF HAEMODIALYSIS-SOL  IDosage form: CAPSULESDosage form: TABLETSDosage form: PROLONGED-RELEASE TABLETDosage form: PROLONGED-RELEASE TABLETDosage form: INJECTIONDosage form: INJECTIONDosage form: MIXTUREDosage form: TABLETSDosage form: GRANULATED POWDER, SINGLE DOSEDosage form: TabletDosage form: TabletDosage form: Solution for injectionDosage form: TABLETSDosage form: Solution for injectionDosage form: INJECTIONDosage form: INJECTIONDosage form: TabletDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: INJECTIONDosage form: INFUSIONDosage form: TABLETSDosage form: Solution for injection, pre-filled penDosage form: TABLETS EFFERVESCENTDosage form: CHEWABLE TABLETDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: THREAD FOR DENTAL USEDosage form: TABLETSDosage form: Film-coated tabletDosage form: Powder and solvent for suspension for injectionDosage form: Powder and solvent for suspension for injectionDosage form: Suspension for injectionDosage form: Powder for solution for infusionDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: Powder for solution for infusionDosage form: Powder for solution for infusionDosage form: TabletDosage form: TabletDosage form: TabletDosage form: TABLETSDosage form: TABLETSDosage form: TABLETSDosage form: Powder for solution for infusionDosage form: Solution for injectionDosage form: Solution for injection, pre-filled penDosage form: Capsule, hardDosage form: Capsule, hard
